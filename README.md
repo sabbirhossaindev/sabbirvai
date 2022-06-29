@@ -2,7 +2,7 @@
 
 <h1 align="center">Assalamualikum 👋, I'm Sabbir Hossain</h1>
 <h3 align="center">I wish I were a Programmer, And Full Stack Developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="450" height="470" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<img align="right" alt="Coding" width="450" height="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 ![Profile views](https://gpvc.arturio.dev/sabbirvai) 
 
