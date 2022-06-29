@@ -43,4 +43,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirvai&show_icons=true&locale=en" alt="sabbirvai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirvai&" alt="sabbirvai" /></p>
-  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=sabbirvai)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirvai)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabbirvai&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabbirvai)  
+
+![GitHub metrics](https://metrics.lecoq.io/sabbirvai)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sabbirvai)  
+
+![Profile views](https://gpvc.arturio.dev/sabbirvai) 
