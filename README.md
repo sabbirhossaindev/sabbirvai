@@ -2,13 +2,9 @@
 
 <h1 align="center">Assalamualikum 👋, I'm Sabbir Hossain</h1>
 <h3 align="center">I wish I were a Programmer, And Full Stack Developer from Bangladesh</h3>
+<img align="right" alt="Coding" width="450" height="470" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirvai&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirvai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbirvai" alt="sabbirvai" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dev--sabbir" target="blank"><img src="https://img.shields.io/twitter/follow/dev--sabbir?logo=twitter&style=for-the-badge" alt="dev--sabbir" /></a> </p>
-
+![Profile views](https://gpvc.arturio.dev/sabbirvai) 
 
 - 🔭 I’m currently working on [Sabbir-It](http://sabbir-it.netlify.app/)
 
@@ -16,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Node Js WEB 3.0](http://sabbir-it.netlify.app/)
 
-- 🤝 I’m looking for help with [Everytime !](http://sabbir-it.netlify.app/)
+- 🤝 I’m looking for help with [Email !](http://mdsabbir477470@gmail.com/)
 
 - 👨‍💻 All of my projects are available at [http://sabbir-it.netlify.app/](http://sabbir-it.netlify.app/)
 
@@ -41,8 +37,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirvai&show_icons=true&locale=en" alt="sabbirvai" /></p>  
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbirvai" alt="sabbirvai" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/dev--sabbir" target="blank"><img src="https://img.shields.io/twitter/follow/dev--sabbir?logo=twitter&style=for-the-badge" alt="dev--sabbir" /></a> </p>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabbirvai)    
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sabbirvai)  
-![Profile views](https://gpvc.arturio.dev/sabbirvai) 
 
