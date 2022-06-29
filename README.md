@@ -9,11 +9,12 @@
 
 <p align="left"> <a href="https://twitter.com/dev--sabbir" target="blank"><img src="https://img.shields.io/twitter/follow/dev--sabbir?logo=twitter&style=for-the-badge" alt="dev--sabbir" /></a> </p>
 
+
 - 🔭 I’m currently working on [Sabbir-It](http://sabbir-it.netlify.app/)
 
 - 🌱 I’m currently learning ****React, Vue JS , React Native, JavaScript, Node JS, Python and OOP concept ****
 
-- 👯 I’m looking to collaborate on [Ecommerce website](http://sabbir-it.netlify.app/)
+- 👯 I’m looking to collaborate on [Node Js WEB 3.0](http://sabbir-it.netlify.app/)
 
 - 🤝 I’m looking for help with [Everytime !](http://sabbir-it.netlify.app/)
 
@@ -24,6 +25,7 @@
 - 📫 How to reach me **mdsabbir477470@gmail.com**
 
 - ⚡ Fun fact **I love to learn new fact.**
+- ![](https://cdn.fbsbx.com/v/t59.2708-21/290679287_716194729655162_5232320856011826837_n.gif?_nc_cat=101&ccb=1-7&_nc_sid=041f46&_nc_eui2=AeEDcawJqBBQmi42rMIa4mk8MRWx9xwBpD0xFbH3HAGkPfY0CzMdjEQGkgdO-ydljo3L85bc0RIN6IL9XmqAXJ2U&_nc_ohc=82N0ch7uZdsAX9KQ5IL&_nc_oc=AQkFe9Cg0NXcAZHUF29WCCpZNKGBoc_IwLtvdshb9JsWEwM5g8_p7SJVUmIZ8UrYshk&_nc_ht=cdn.fbsbx.com&oh=03_AVLyguyc3G00e5v_2IoWlyMruAEo6Wb-OHkMZiqU2CIZKA&oe=62BE1090)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,11 +39,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirvai&show_icons=true&locale=en&layout=compact" alt="sabbirvai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirvai&show_icons=true&locale=en" alt="sabbirvai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirvai&show_icons=true&locale=en" alt="sabbirvai" /></p>  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabbirvai)  
-
-![GitHub metrics](https://metrics.lecoq.io/sabbirvai)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabbirvai)    
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sabbirvai)  
 ![Profile views](https://gpvc.arturio.dev/sabbirvai) 
