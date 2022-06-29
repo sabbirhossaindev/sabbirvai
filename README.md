@@ -1,8 +1,7 @@
+![](https://cdn.fbsbx.com/v/t59.2708-21/278764585_596256831428904_6484570594458471266_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_eui2=AeHCVBv-IPQMMthriqF-Zt-JvEgd-rnKQTy8SB36ucpBPNr0-zg1YgrgO_TCOAlvZxHzHbIZb6JppORE7KDvbVXS&_nc_ohc=yL6vfKRGIRkAX-Acesp&_nc_ht=cdn.fbsbx.com&oh=03_AVIwo2nBmBBiDph8kMiNE9REae_eNXFOKjvlgF0fA7FNew&oe=62BE0DAB)
 
-![](https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format)
-
-<h1 align="center">Hi 👋, I'm Sabbir Hossain</h1>
-<h3 align="center">I wish I were a Programmer, And full Stack Developer from 🇧🇩 Bangladesh</h3>
+<h1 align="center">Assalamualikum 👋, I'm Sabbir Hossain</h1>
+<h3 align="center">I wish I were a Programmer, And Full Stack Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirvai&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirvai" /> </p>
 
