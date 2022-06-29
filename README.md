@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sabbir Hossain</h1>
 <h3 align="center">I wish I were a Programmer, And full Stack Developer from 🇧🇩 Bangladesh</h3>
-![I am GitHub Readme Generator's creator](https://https://cdn.fbsbx.com/v/t59.2708-21/290679287_716194729655162_5232320856011826837_n.gif?_nc_cat=101&ccb=1-7&_nc_sid=041f46&_nc_eui2=AeEDcawJqBBQmi42rMIa4mk8MRWx9xwBpD0xFbH3HAGkPfY0CzMdjEQGkgdO-ydljo3L85bc0RIN6IL9XmqAXJ2U&_nc_ohc=hj0YTP-ERk0AX__wqrY&_nc_oc=AQnytiW4R5wJA2oZnFrpyxVlMOZq1wEsoF0QdLD55Nf81N2BfTmH0Is1Hi_3cp67HbY&_nc_ht=cdn.fbsbx.com&oh=03_AVLqqJdnRhcyfvJSd0lpqQJ83Ml3XQddZT293CIR9Hk00A&oe=62BD67D0)
+
 <img align="right" alt="coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirvai&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirvai" /> </p>
@@ -43,18 +43,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirvai&show_icons=true&locale=en" alt="sabbirvai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirvai&" alt="sabbirvai" /></p>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sabbirvai)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirvai)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabbirvai&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabbirvai)  
-
-![GitHub metrics](https://metrics.lecoq.io/sabbirvai)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sabbirvai)  
-
-![Profile views](https://gpvc.arturio.dev/sabbirvai)  
+  
