@@ -40,11 +40,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirvai&show_icons=true&locale=en" alt="sabbirvai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirvai&" alt="sabbirvai" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirvai&" alt="sabbirvai" /></p>  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabbirvai)  
 
 ![GitHub metrics](https://metrics.lecoq.io/sabbirvai)  
