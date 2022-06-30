@@ -1,6 +1,6 @@
 ![](https://cdn.fbsbx.com/v/t59.2708-21/278764585_596256831428904_6484570594458471266_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_eui2=AeHCVBv-IPQMMthriqF-Zt-JvEgd-rnKQTy8SB36ucpBPNr0-zg1YgrgO_TCOAlvZxHzHbIZb6JppORE7KDvbVXS&_nc_ohc=yL6vfKRGIRkAX-Acesp&_nc_ht=cdn.fbsbx.com&oh=03_AVIwo2nBmBBiDph8kMiNE9REae_eNXFOKjvlgF0fA7FNew&oe=62BE0DAB)
 
-<h1 align="center">Assalamualikum 👋, I'm Sabbir Hossain</h1>
+<h1 align="center">Assalamualikum <img height="30" width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm Sabbir Hossain</h1>
 <h3 align="center">I wish I were a Programmer, And Full Stack Developer from Bangladesh</h3>
 <p align="center"> <img  height="200" width="300" src="https://media.giphy.com/media/fW4G2bsiMZiAwipQVJ/giphy.gif"> </p>
 
@@ -26,7 +26,7 @@
 - ⚡ Fun fact **I love to learn new fact.**
  <br>
  
-<h2 align="left"><img height="55" width="55" src="https://cdn.dribbble.com/users/345826/screenshots/1836550/dots24.gif"> Connect with me <img height="65" width="65" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif?raw=true"> </h2>
+<h2 align="left"><img height="45" width="45" src="https://cdn.dribbble.com/users/345826/screenshots/1836550/dots24.gif"> <b>Connect with me</b> <img height="60" width="60" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif?raw=true"> </h2>
 
 <p align="left">
 <a href="https://twitter.com/dev--sabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev--sabbir" height="30" width="40" /></a>
