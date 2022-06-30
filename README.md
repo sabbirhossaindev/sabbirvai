@@ -2,7 +2,7 @@
 
 <h1 align="center">Assalamualikum <img height="30" width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm Sabbir Hossain</h1>
 <h3 align="center">I wish I were a Programmer, And Full Stack Developer from Bangladesh</h3>
-<p align="center"> <img  height="200" width="300" src="https://media.giphy.com/media/fW4G2bsiMZiAwipQVJ/giphy.gif"> </p>
+<p align="center"> <img  height="180" width="300" src="https://media.giphy.com/media/fW4G2bsiMZiAwipQVJ/giphy.gif"> </p>
 
 <h2 align="start">I am a JavaScript Lover <img height="30" width="40" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"></h2>
 <img align="right" alt="Coding" width="450" height="430" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
@@ -26,7 +26,7 @@
 - ⚡ Fun fact **I love to learn new fact.**
  <br>
  
-<h2 align="left"><img height="45" width="45" src="https://cdn.dribbble.com/users/345826/screenshots/1836550/dots24.gif"> <b>Connect with me</b> <img height="60" width="60" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif?raw=true"> </h2>
+<h2 align="left"><img height="40" width="40" src="https://cdn.dribbble.com/users/345826/screenshots/1836550/dots24.gif"> <b>Connect with me</b> <img height="60" width="60" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif?raw=true"> </h2>
 
 <p align="left">
 <a href="https://twitter.com/dev--sabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev--sabbir" height="30" width="40" /></a>
