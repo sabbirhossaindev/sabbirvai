@@ -26,7 +26,7 @@
 - ⚡ Fun fact **I love to learn new fact.**
  <br>
  
-<h1 align="left"><img height="55" width="85" src="https://cdn.dribbble.com/users/345826/screenshots/1836550/dots24.gif"> Connect with me <img height="65" width="65" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif?raw=true"> </h1>
+<h3 align="left"><img height="55" width="55" src="https://cdn.dribbble.com/users/345826/screenshots/1836550/dots24.gif"> Connect with me <img height="65" width="65" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif?raw=true"> </h3>
 
 <p align="left">
 <a href="https://twitter.com/dev--sabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev--sabbir" height="30" width="40" /></a>
@@ -34,7 +34,7 @@
 <a href="https://instagram.com/dev__sabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev__sabbir" height="30" width="40" /></a>
 </p>
 <br>
-<p><i><img height="45" width="45" src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966"> I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊</i></p>
+<p><i><img height="45" width="45" src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966"> <b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊</b></i></p>
 <br>
 
 ![](https://cdn.fbsbx.com/v/t59.2708-21/290679287_716194729655162_5232320856011826837_n.gif?_nc_cat=101&ccb=1-7&_nc_sid=041f46&_nc_eui2=AeEDcawJqBBQmi42rMIa4mk8MRWx9xwBpD0xFbH3HAGkPfY0CzMdjEQGkgdO-ydljo3L85bc0RIN6IL9XmqAXJ2U&_nc_ohc=82N0ch7uZdsAX9KQ5IL&_nc_oc=AQkFe9Cg0NXcAZHUF29WCCpZNKGBoc_IwLtvdshb9JsWEwM5g8_p7SJVUmIZ8UrYshk&_nc_ht=cdn.fbsbx.com&oh=03_AVLyguyc3G00e5v_2IoWlyMruAEo6Wb-OHkMZiqU2CIZKA&oe=62BE1090)
