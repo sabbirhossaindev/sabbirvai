@@ -5,7 +5,7 @@
 <p align="center"> <img  height="200" width="300" src="https://media.giphy.com/media/fW4G2bsiMZiAwipQVJ/giphy.gif"> </p>
 
 <h2 align="start">I am a JavaScript Lover <img height="30" width="40" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"></h2>
-<img align="right" alt="Coding" width="450" height="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<img align="right" alt="Coding" width="450" height="430" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 ![Profile views](https://gpvc.arturio.dev/sabbirvai) 
 
@@ -24,8 +24,9 @@
 - 📫 How to reach me **mdsabbir477470@gmail.com**
 
 - ⚡ Fun fact **I love to learn new fact.**
-
-<h1 align="left"><img height="55" width="105" src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/media/d22c346007dce4e3c8c97bd5b09d8363.gif"> Connect with me <img height="65" width="65" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif?raw=true"> </h1>
+ <br>
+ 
+<h1 align="left"><img height="55" width="85" src="https://cdn.dribbble.com/users/345826/screenshots/1836550/dots24.gif"> Connect with me <img height="65" width="65" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif?raw=true"> </h1>
 
 <p align="left">
 <a href="https://twitter.com/dev--sabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev--sabbir" height="30" width="40" /></a>
