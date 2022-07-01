@@ -1,7 +1,7 @@
 ![](https://cdn.fbsbx.com/v/t59.2708-21/278764585_596256831428904_6484570594458471266_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_eui2=AeHCVBv-IPQMMthriqF-Zt-JvEgd-rnKQTy8SB36ucpBPNr0-zg1YgrgO_TCOAlvZxHzHbIZb6JppORE7KDvbVXS&_nc_ohc=yL6vfKRGIRkAX-Acesp&_nc_ht=cdn.fbsbx.com&oh=03_AVIwo2nBmBBiDph8kMiNE9REae_eNXFOKjvlgF0fA7FNew&oe=62BE0DAB)
 
-<h1 align="center">Assalamualikum <img height="30" width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm Sabbir Hossain</h1>
-<h3 align="center">I wish I were a Programmer, And Full Stack Developer from Bangladesh</h3>
+<h1 align="center">Assalamualikum, <img height="30" width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> I'm Sabbir Hossain</h1>
+<h3 align="center">I wish I were a Programmer, And Full Stack Developer from <img height="15" width="25" src="https://mycarbys.com/wp-content/uploads/2021/02/Flag_of_Bangladesh.gif"> Bangladesh</h3>
 <p align="center"> <img  height="180" width="300" src="https://media.giphy.com/media/fW4G2bsiMZiAwipQVJ/giphy.gif"> </p>
 
 <h2 align="start">I am a JavaScript Lover <img height="30" width="40" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"></h2>
@@ -29,9 +29,12 @@
 <h2 align="left"><img height="40" width="40" src="https://cdn.dribbble.com/users/345826/screenshots/1836550/dots24.gif"> <b>Connect with me</b> <img height="60" width="60" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif?raw=true"> </h2>
 
 <p align="left">
-<a href="https://twitter.com/dev--sabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev--sabbir" height="30" width="40" /></a>
+<a href="https://twitter.com/sabbirdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabbirdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-sabbir-hossain-18300b244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sabbir-hossain-18300b244" height="30" width="40" /></a>
 <a href="https://fb.com/misty.sabbir.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="misty.sabbir.3" height="30" width="40" /></a>
 <a href="https://instagram.com/dev__sabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev__sabbir" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/tofaelahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tofaelahamed" height="30" width="40" /></a>
+
 </p>
 <br>
 <p><i><img height="45" width="45"       src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966"> <b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊</b></i></p>
