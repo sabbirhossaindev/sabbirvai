@@ -2,7 +2,7 @@
 
 <h1 align="center">Assalamualikum, <img height="30" width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> I'm Sabbir Hossain</h1>
 <h3 align="center">I wish I were a Programmer <img height="15" width="25" src="https://res.cloudinary.com/practicaldev/image/fetch/s--goETGOXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/x3x5w638kkixi9s3h3vw.gif">  And Full Stack Developer from <br> <img height="14" width="25" src="https://mycarbys.com/wp-content/uploads/2021/02/Flag_of_Bangladesh.gif"> Bangladesh</h3>
-<p align="center"> <img  height="150" width="200" src="https://media.giphy.com/media/fW4G2bsiMZiAwipQVJ/giphy.gif"> </p>
+<p align="center"> <img  height="100" width="200" src="https://media.giphy.com/media/fW4G2bsiMZiAwipQVJ/giphy.gif"> </p>
 
 <h2 align="start">I am a JavaScript Lover <img height="30" width="40" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"></h2>
 <img align="right" alt="Coding" width="450" height="430" src="https://avatars.githubusercontent.com/u/94552812?v=4">
