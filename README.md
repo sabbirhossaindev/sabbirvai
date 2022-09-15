@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning ****React, Vue JS , React Native, JavaScript, Node JS, Python and OOP concept ****
 
-- 👯 I’m looking to collaborate on [Node Js WEB 3.0](https://www.youtube.com/watch?v=Ss1NfESvYTI)
+- 👯 I’m looking to collaborate on [JavaScript Basic](https://github.com/sabbirvai/JS-All-Recap-Code)
 
 - 🤝 I’m looking for help with [Email !](http://mdsabbir477470@gmail.com/)
 
