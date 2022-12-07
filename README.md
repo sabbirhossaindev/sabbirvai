@@ -10,7 +10,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/sabbirvai) 
 
-- 🔭 I’m currently working on [Sabbir-It](http://sabbir-it.netlify.app/)
+- 🔭 I’m currently working on [Developer Sabbir 👨‍💻](https://dev-sabbir.web.app/)
 
 - 🌱 I’m currently learning ****React, Vue JS , React Native, JavaScript, Node JS, Python and OOP concept ****
 
@@ -18,9 +18,9 @@
 
 - 🤝 I’m looking for help with [Email !](http://mdsabbir477470@gmail.com/)
 
-- 👨‍💻 All of my projects are available at [http://sabbir-it.netlify.app/](http://sabbir-it.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dev-sabbir.web.app/](https://dev-sabbir.web.app/)
 
-- 💬 Ask me about **Full stack Devlopment**
+- 💬 Ask me about **[My Resume](https://drive.google.com/file/d/1wXyoYuLeWFpJmRoG2UkBJa-20fjzQWG3/view?usp=sharing)**
 
 - 📫 How to reach me **mdsabbir477470@gmail.com**
 
