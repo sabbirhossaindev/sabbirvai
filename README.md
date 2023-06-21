@@ -1,4 +1,4 @@
-<img  height="500" width="100%" src="https://scontent.fjsr1-2.fna.fbcdn.net/v/t39.30808-6/353842903_635985651962113_7435129419638589170_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEIYt5PQ0V_2wjZBcgqTUF4OPXSJU71lNo49dIlTvWU2nxrQnO5KXQhwibcE9C5-tqrb5OHXuYq946DTr65rB9S&_nc_ohc=09hX3Vq7rJAAX_i7uq2&_nc_zt=23&_nc_ht=scontent.fjsr1-2.fna&oh=00_AfAIYfy7a-iF7J9d-hctdt3NIZQAdqdn9kvJwuwcxW2u8g&oe=64966C81">
+<img  height="100%" width="100%" src="https://scontent.fjsr1-2.fna.fbcdn.net/v/t39.30808-6/353842903_635985651962113_7435129419638589170_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEIYt5PQ0V_2wjZBcgqTUF4OPXSJU71lNo49dIlTvWU2nxrQnO5KXQhwibcE9C5-tqrb5OHXuYq946DTr65rB9S&_nc_ohc=09hX3Vq7rJAAX_i7uq2&_nc_zt=23&_nc_ht=scontent.fjsr1-2.fna&oh=00_AfAIYfy7a-iF7J9d-hctdt3NIZQAdqdn9kvJwuwcxW2u8g&oe=64966C81">
 
 <h1 align="center">Assalamualikum, <img height="30" width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> I'm Sabbir Hossain</h1>
 <h3 align="center">I wish I were a Programmer <img height="15" width="25" src="https://res.cloudinary.com/practicaldev/image/fetch/s--goETGOXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/x3x5w638kkixi9s3h3vw.gif">  And Full Stack Developer from <br> <img height="14" width="25" src="https://mycarbys.com/wp-content/uploads/2021/02/Flag_of_Bangladesh.gif"> Bangladesh</h3>
@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="380" height="400" src="https://avatars.githubusercontent.com/u/94552812?v=4">
 
-<br>
+<img height="40" width="40" src="https://em-content.zobj.net/source/animated-noto-color-emoji/344/smiling-face-with-hearts_1f970.gif">
 <a href="https://github.com/sabbirvai" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sabbirvai?label=Github&style=flat">
   </a>
@@ -34,16 +34,18 @@
 - ⚡ Fun fact **I love to learn new fact.**
  <br>
  
-<h2 align="left"><img height="40" width="40" src="https://cdn.dribbble.com/users/345826/screenshots/1836550/dots24.gif"> <b>Connect with me</b> <img height="60" width="60" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif?raw=true"> </h2>
+<h2 align="left"> <b>Connect with me </b> <img height="60" width="60" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif?raw=true"></h2>
 
  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100066520511940)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev__sabbir/)
+[![Skype](https://img.shields.io/badge/skype-12100E?style=for-the-badge&logo=website&logoColor=white)](https://join.skype.com/invite/p3p5vai2uG8k)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SabbirH67779597)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabbirvai)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sabbir-hossain-18300b244/)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsabbir477470@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sabbirhossain_37022)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsabbir477470@gmail.com)
 [![Website](https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=website&logoColor=white)](https://dev-sabbir.web.app/)
+
 <!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) -->
  
 <br>
@@ -78,6 +80,8 @@
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+<hr>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirvai&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Sabbir Hossain" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirvai&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="sabbirvai" /></p>  
 
@@ -86,4 +90,4 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sabbirvai) 
 
 <p> <img src="https://raw.githubusercontent.com/devSahinur/devSahinur/582dc7730ce1818b8905cefe91b15528a2807d78/assets/Thanks.svg"></p>
-<h1 align="center">Allah Hafiz...💬 <img height="50" width="50" src="https://em-content.zobj.net/source/animated-noto-color-emoji/344/smiling-face-with-hearts_1f970.gif"></h1>
+<h1 align="center">Allah Hafiz...💬 <img height="40" width="40" src="https://em-content.zobj.net/source/animated-noto-color-emoji/344/smiling-face-with-hearts_1f970.gif"></h1>
