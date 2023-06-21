@@ -8,13 +8,13 @@
 
 <img align="right" alt="Coding" width="380" height="400" src="https://avatars.githubusercontent.com/u/94552812?v=4">
 
+<br>
 <a href="https://github.com/sabbirvai" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sabbirvai?label=Github&style=flat">
   </a>
   <a href="https://github.com/sabbirvai" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=sabbirvai&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirvai" />
   </a>
-  <br>
   <br>
 
 - 🔭 I’m currently working on [Developer Sabbir 👨‍💻](https://dev-sabbir.web.app/)
