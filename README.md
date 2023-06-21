@@ -1,4 +1,4 @@
-<img  height="100%" width="100%" src="https://jusmarktech.com/public/a/images/pages/web_development.gif">
+<img  height="500" width="100%" src="https://scontent.fjsr1-2.fna.fbcdn.net/v/t39.30808-6/353842903_635985651962113_7435129419638589170_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEIYt5PQ0V_2wjZBcgqTUF4OPXSJU71lNo49dIlTvWU2nxrQnO5KXQhwibcE9C5-tqrb5OHXuYq946DTr65rB9S&_nc_ohc=09hX3Vq7rJAAX_i7uq2&_nc_zt=23&_nc_ht=scontent.fjsr1-2.fna&oh=00_AfAIYfy7a-iF7J9d-hctdt3NIZQAdqdn9kvJwuwcxW2u8g&oe=64966C81">
 
 <h1 align="center">Assalamualikum, <img height="30" width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> I'm Sabbir Hossain</h1>
 <h3 align="center">I wish I were a Programmer <img height="15" width="25" src="https://res.cloudinary.com/practicaldev/image/fetch/s--goETGOXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/x3x5w638kkixi9s3h3vw.gif">  And Full Stack Developer from <br> <img height="14" width="25" src="https://mycarbys.com/wp-content/uploads/2021/02/Flag_of_Bangladesh.gif"> Bangladesh</h3>
@@ -8,11 +8,16 @@
 
 <img align="right" alt="Coding" width="380" height="400" src="https://avatars.githubusercontent.com/u/94552812?v=4">
 
-![Profile views](https://gpvc.arturio.dev/sabbirvai) 
+<a href="https://github.com/sabbirvai" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sabbirvai?label=Github&style=flat">
+  </a>
+  <a href="https://github.com/sabbirvai" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=sabbirvai&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirvai" />
+  </a>  
 
 - 🔭 I’m currently working on [Developer Sabbir 👨‍💻](https://dev-sabbir.web.app/)
 
-- 🌱 I’m currently learning ****React, Vue JS , React Native, JavaScript, Node JS, Python and OOP concept ****
+- 🌱 I’m currently learning ****React, React Native, JavaScript, Node JS, PHP and Laravel full concept ****
 
 - 👯 I’m looking to collaborate on [JavaScript Basic](https://github.com/sabbirvai/JS-All-Recap-Code)
 
@@ -29,38 +34,54 @@
  
 <h2 align="left"><img height="40" width="40" src="https://cdn.dribbble.com/users/345826/screenshots/1836550/dots24.gif"> <b>Connect with me</b> <img height="60" width="60" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif?raw=true"> </h2>
 
-<p align="left">
-<a href="https://twitter.com/sabbirdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabbirdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-sabbir-hossain-18300b244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sabbir-hossain-18300b244" height="30" width="40" /></a>
-<a href="www.facebook.com/profile.php?id=100066520511940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100066520511940" height="30" width="40" /></a>
-<a href="https://instagram.com/dev__sabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev__sabbir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tofaelahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tofaelahamed" height="30" width="40" /></a>
-
-</p>
+ [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100066520511940)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev__sabbir/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SabbirH67779597)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabbirvai)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sabbir-hossain-18300b244/)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsabbir477470@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sabbirhossain_37022)
+[![Website](https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=website&logoColor=white)](https://dev-sabbir.web.app/)
+<!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) -->
+ 
 <br>
 <p><i><img height="45" width="45"       src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966"> <b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊</b></i></p>
 <br>
-<img  height="100%" width="100%" background="red" src="https://images.openai.com/blob/b11fba8c-c51f-41c1-95b8-cc55db89af49/gpt-4-motif.svg?width=10&height=10&quality=50">
 
 ![](https://cdn.fbsbx.com/v/t59.2708-21/290679287_716194729655162_5232320856011826837_n.gif?_nc_cat=101&ccb=1-7&_nc_sid=041f46&_nc_eui2=AeEDcawJqBBQmi42rMIa4mk8MRWx9xwBpD0xFbH3HAGkPfY0CzMdjEQGkgdO-ydljo3L85bc0RIN6IL9XmqAXJ2U&_nc_ohc=82N0ch7uZdsAX9KQ5IL&_nc_oc=AQkFe9Cg0NXcAZHUF29WCCpZNKGBoc_IwLtvdshb9JsWEwM5g8_p7SJVUmIZ8UrYshk&_nc_ht=cdn.fbsbx.com&oh=03_AVLyguyc3G00e5v_2IoWlyMruAEo6Wb-OHkMZiqU2CIZKA&oe=62BE1090)
 
 <h2 align="left">Languages and Tools: <img height="26" width="30" src="https://camo.githubusercontent.com/4a6d78c6937e3980495875e8a8e904fc57d0639c4c8012ff0d40af64da2f96f1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31796e4345746c674d5041654e4171646e752f67697068792e676966"></h2>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirvai&show_icons=true&locale=en&layout=compact" alt="sabbirvai" /></p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirvai&show_icons=true&locale=en" alt="sabbirvai" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirvai&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Sabbir Hossain" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirvai&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="sabbirvai" /></p>  
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbirvai" alt="sabbirvai" /></a> </p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabbirvai)    
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbirvai" alt="sabbirvai" /></a> </p>   
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sabbirvai) 
 
 <p> <img src="https://raw.githubusercontent.com/devSahinur/devSahinur/582dc7730ce1818b8905cefe91b15528a2807d78/assets/Thanks.svg"></p>
-
-<p><img align="center" src="https://cdn.fbsbx.com/v/t59.2708-21/278764585_596256831428904_6484570594458471266_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_eui2=AeHCVBv-IPQMMthriqF-Zt-JvEgd-rnKQTy8SB36ucpBPNr0-zg1YgrgO_TCOAlvZxHzHbIZb6JppORE7KDvbVXS&_nc_ohc=gBDvZ3W6vVwAX-_PfBU&_nc_ht=cdn.fbsbx.com&oh=03_AVJOuM9hlroWqPSQfW_PCptlEJ4bVmpzmDe_Is9DvVxB_g&oe=6309332B" alt="sabbirvai" /></p>
-<img  height="300" width="100%" src="https://flamingtext.com/net-fu/proxy_form.cgi?script=alien-glow-anim-logo&fontname=sf+gushing+meadow&text=SABBIR&script=alien-glow-anim-logo&text=SABBIR&fontname=sf+gushing+meadow&imageoutput=true">
-
-<h3 align="center">Allah Hafiz...💬👨</h3>
+<h1 align="center">Allah Hafiz...💬 <img height="50" width="50" src="https://em-content.zobj.net/source/animated-noto-color-emoji/344/smiling-face-with-hearts_1f970.gif"></h1>
