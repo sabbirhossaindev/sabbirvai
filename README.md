@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **[My Resume](https://drive.google.com/file/d/1wXyoYuLeWFpJmRoG2UkBJa-20fjzQWG3/view?usp=sharing)**
 
-- 📫 How to reach me **mdsabbir477470@gmail.com**
+- 📫 How to reach me **sabbirhossaindev1@gmail.com**
 
 - ⚡ Fun fact **I love to learn new fact.**
  <br>
@@ -37,14 +37,15 @@
 <h2 align="left"> <b>Connect with me </b> <img height="60" width="60" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif?raw=true"></h2>
 
  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100066520511940)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev__sabbir/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sabbirhossaindev/)
 [![Skype](https://img.shields.io/badge/skype-12100E?style=for-the-badge&logo=website&logoColor=white)](https://join.skype.com/invite/p3p5vai2uG8k)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SabbirH67779597)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sabbirhossaind)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabbirvai)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sabbir-hossain-18300b244/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sabbirhossain_37022)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbir-hossain-dev/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sabbirhossaindev)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsabbir477470@gmail.com)
 [![Website](https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=website&logoColor=white)](https://dev-sabbir.web.app/)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sabbirhossaindev1@gmail.com)
 
 <!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) -->
  
